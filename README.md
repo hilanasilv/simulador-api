@@ -1,10 +1,8 @@
-<h1> Simulator Télos Nível 9 - APIs RESTful 🚀 </h1>
+<h1 align=center> Simulator Télos Nível 9 - APIs RESTful 🚀 </h1>
 
 Esse projeto consiste em um Sistema de Gestão de Pizzaria, desenvolvido com ASP.NET Web API para consolidar conhecimentos em **APIs RESTful**, autenticação, autorização, testes unitários e documentação com Swagger. 
 
 O sistema permite gerenciar sabores de pizzas, calcular o tempo de preparo de pedidos e proteger as APIs com autenticação baseada em **JWT (JSON Web Token)**.
-
----
 
 ## 🎯 **Objetivo**
 O objetivo deste projeto é criar um sistema de gestão para uma pizzaria com funcionalidades de:
@@ -13,8 +11,6 @@ O objetivo deste projeto é criar um sistema de gestão para uma pizzaria com fu
 3. Proteção de APIs com autenticação e autorização.
 4. Documentação das APIs utilizando Swagger.
 5. Garantia da qualidade do código com testes unitários.
-
----
 
 ## ⚙️ **Funcionalidades**
 ### 1. **API de Sabores de Pizza**
